@@ -1,2 +1,6 @@
 main
 *.sw[n-z]
+unittest/Makefile
+unittest/unittest
+unittest/unittest.moc
+unittest/unittest.o
