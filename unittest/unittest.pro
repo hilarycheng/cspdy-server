@@ -1,6 +1,7 @@
 QT += testlib
 
-SOURCES += unittest.cpp
+HEADERS += spdy_sample.h
+SOURCES += unittest.cpp spdy_sample.cpp
 
 INCLUDEPATH += ../
 DEPENDSPATH += ../

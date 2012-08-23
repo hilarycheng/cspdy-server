@@ -1,5 +1,6 @@
 #include <QtTest>
 #include <spdy_common.h>
+#include "spdy_sample.h"
 
 char test_control_frame[] = {
   0x80, 0x03, 0xAA, 0x55,
